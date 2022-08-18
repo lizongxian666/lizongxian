@@ -1,0 +1,30 @@
+{
+  "name": "lizongxian666",
+  "description": "",
+  "keywords": [
+    ""
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "",
+      "value": "",
+      "required": true
+    },
+    "WS_PATH": {
+      "description": "",
+      "value": "/ws",
+      "required": true
+    }
+  },
+  "website": "https://github.com/lizongxian666/lizongxian",
+  "repository": "https://github.com/lizongxian666/lizongxian",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
